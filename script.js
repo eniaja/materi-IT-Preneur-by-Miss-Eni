@@ -1,14 +1,14 @@
 javascript
 function pesan(namaProduk) {
 
-    const nomorWhatsApp = "6281234567890";
+    const nomorWhatsApp = "6289698034928";
 
     const pesan =
         "Halo, saya tertarik dengan produk: " +
         namaProduk;
 
     const url =
-        "https://wa.me/" +
+        "https://wa.me/6289698034928" +
         nomorWhatsApp +
         "?text=" +
         encodeURIComponent(pesan);
